@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class CoreJavaBrushup2 {
 
@@ -46,8 +47,8 @@ public class CoreJavaBrushup2 {
 				//key word is contains. it only returns in boolean, can only be used if you are using array list
 				
 				//converting an array to arraylist
-				String [] name = {"rahul", "shetty", "mimoo"};
-				List <String> nameArrayList = Arrays.asList(name);
+				//String [] name = {"rahul", "shetty", "mimoo"};
+				//List <String> nameArrayList = Arrays.asList(name);
 				
 	}
 
